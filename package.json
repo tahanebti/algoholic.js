@@ -1,5 +1,5 @@
 {
-  "name": "algoholic",
+  "name": "algoholic.js",
   "version": "1.0.0",
   "description": "Traditional computer science algorithms and data structures implemented in JavaScript",
   "main": "index.js",
