@@ -6,7 +6,7 @@ Classic algorithms and data structures implemented in JavaScript. Build by taha 
 
 ### Installing
 ```
-npm install --save algoholic
+npm install --save algoholic.js
 ```
 
 ### Contents
