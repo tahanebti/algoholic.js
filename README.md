@@ -1,5 +1,4 @@
 # algoholic.js
-==================
 
 Classic algorithms and data structures implemented in JavaScript. Build by taha Nebti for acm tcpc training.
 
