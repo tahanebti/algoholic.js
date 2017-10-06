@@ -1,0 +1,33 @@
+{
+  "name": "algoholic",
+  "version": "1.0.0",
+  "description": "Traditional computer science algorithms and data structures implemented in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R nyan --recursive test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tahanebti/algoholic.js.git"
+  },
+  "keywords": [
+    "computer",
+    "science",
+    "cs",
+    "algorithms",
+    "data",
+    "structures",
+    "acm",
+    "tcpc"
+  ],
+  "author": "Taha Nebti <taha.nebti@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tahanebti/algoholic.js/issues"
+  },
+  "homepage": "https://github.com/tahanebti/algoholic.js#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
